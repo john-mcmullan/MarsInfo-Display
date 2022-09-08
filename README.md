@@ -1,6 +1,6 @@
 # Unit 12 Homework: Mission to Mars
 
-Through scrapping 4 different websites we pulled four different sets of data
+The challenge is to scrape for seperate websites and display them on one simple html page.
 
 # The Latest Headlines and Details
 
