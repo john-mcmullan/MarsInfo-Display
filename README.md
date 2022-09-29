@@ -1,4 +1,4 @@
-# Unit 12 Homework: Mission to Mars
+# Mission to Mars
 
 The challenge is to scrape for seperate websites and display them on one simple html page.
 
